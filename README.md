@@ -20,6 +20,8 @@ Our goal is to help every business owner to grow his business and for that reaso
 
 · You will be able to manage your marketing budget and measure your success.
 
+.will help you to do tasks using a gamification UX pattern, And get notified  every day  for a mission to do based on analytics .
+
 · will help you understand your customers and their interests so you can adapt to their needs.
 
 · You will be in constant communication with your customers and keep you close to them.

@@ -8,9 +8,9 @@ Our goal is to help every business owner to grow his business and for that reaso
 
 ## How will our solution help your business?
 
-- A notification system will keep you in touch with your audience in your location and send you reminders to publish at the right time, on the right platform, and the right post type.
+· A notification system will keep you in touch with your audience in your location and send you reminders to publish at the right time, on the right platform, and the right post type.
 
-- Providing location-based marketing where the nearest customers will receive your offers as a notification. 
+· Providing location-based marketing where the nearest customers will receive your offers as a notification. 
 
 · Our marketing strategies will help you increase sales and profits while decreasing costs.
 
